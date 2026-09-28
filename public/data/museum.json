@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "nama": "Bambu Runcing Pejuang",
+    "periode": "1944–1945",
+    "asal": "Tasikmalaya (Sukamanah) & Indramayu",
+    "deskripsi": "Bambu runcing adalah senjata legendaris perjuangan rakyat Indonesia yang digunakan oleh santri K.H. Zainal Mustafa di Sukamanah dan petani di Indramayu. Ujung bambu yang diruncingkan dan diolesi getah/minyak menjadi senjata pertahanan utama melawan senapan tentara Jepang.",
+    "material": "Bambu petung, tali rami, dan kain merah-putih",
+    "tinggi": "180 cm",
+    "koleksi": "Museum Perjuangan Nasional",
+    "warna": "#556B2F",
+    "warnaSekunder": "#8FBC8F",
+    "bentuk": "bambu",
+    "posisi": { "x": -6, "y": 0, "z": 0 },
+    "skala": 1.2,
+    "fakta": [
+      "Senjata utama santri Sukamanah dalam menghadapi kepungan serdadu Jepang",
+      "Dipakai kaum petani Indramayu untuk memboikot dan melawan perampasan padi",
+      "Simbol keteguhan dan keberanian rakyat berbekal keyakinan dan senjata sederhana"
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Pedang Katana / Guntō PETA",
+    "periode": "1943–1945",
+    "asal": "Daidan Blitar, Jawa Timur",
+    "deskripsi": "Pedang komando militer (Guntō) yang merupakan atribut resmi para perwira PETA seperti Shodancho Supriyadi dan Muradi. Pada 14 Februari 1945, pedang ini dihunus untuk memimpin pasukan PETA menyerbu markas Kenpeitai Jepang di Blitar demi membela penderitaan rakyat romusha.",
+    "material": "Baja tempa, kuningan, dan kulit lilitan",
+    "tinggi": "95 cm",
+    "koleksi": "Museum Monumen PETA Blitar",
+    "warna": "#B0C4DE",
+    "warnaSekunder": "#FFD700",
+    "bentuk": "katana",
+    "posisi": { "x": -3, "y": 0, "z": 0 },
+    "skala": 1.1,
+    "fakta": [
+      "Pedang resmi perwira komando Shodancho & Chudancho PETA",
+      "Dihunus Supriyadi saat mengomandoi pemberontakan bersenjata Blitar 14 Feb 1945",
+      "Melambangkan keberanian pemuda menggunakan senjata musuh untuk kemerdekaan"
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Monumen Tugu PETA Blitar",
+    "periode": "1945 (Diabadikan)",
+    "asal": "Blitar, Jawa Timur",
+    "deskripsi": "Miniatur tugu peringatan pemberontakan PETA di Blitar yang dibangun untuk mengenang peristiwa heroik 14 Februari 1945. Monumen ini mengabadikan patung Supriyadi dan para perwira PETA yang gugur demi memerdekakan Indonesia dari penjajahan fasis Jepang.",
+    "material": "Marmer hitam, perunggu, dan ornamen emas",
+    "tinggi": "3.5 meter (asli)",
+    "koleksi": "Kompleks Monumen PETA Blitar",
+    "warna": "#2F4F4F",
+    "warnaSekunder": "#FFD700",
+    "bentuk": "tugu",
+    "posisi": { "x": 0, "y": 0, "z": 0 },
+    "skala": 1.0,
+    "fakta": [
+      "Pemberontakan militer terorganisir terbesar yang dihadapi militer Jepang",
+      "Mengenang misteri hilangnya Supriyadi pasca pertempuran",
+      "Ditetapkan sebagai situs cagar budaya nasional perjuangan kemerdekaan"
+    ]
+  },
+  {
+    "id": 4,
+    "nama": "Mandau Pusaka Pejuang Dayak",
+    "periode": "1944–1945",
+    "asal": "Meliau & Tayan, Kalimantan Barat",
+    "deskripsi": "Mandau pusaka tradisional suku Dayak yang digunakan oleh Pang Suma dan laskar pejuang pedalaman Kalimantan Barat. Senjata ini digunakan dalam taktik gerilya rimba mematikan untuk membalaskan kekejaman tentara Kaigun Jepang dan Tragedi Pembantaian Mandor.",
+    "material": "Baja damaskus mantikei, tanduk rusa, dan kayu ulin",
+    "panjang": "70 cm",
+    "koleksi": "Museum Provinsi Kalimantan Barat",
+    "warna": "#8B4513",
+    "warnaSekunder": "#D2691E",
+    "bentuk": "mandau",
+    "posisi": { "x": 3, "y": 0, "z": 0 },
+    "skala": 1.1,
+    "fakta": [
+      "Senjata perang gerilya Pang Suma menumpas pos pertahanan Jepang di Meliau",
+      "Ditempa dengan ukiran khas Dayak bermakna perlindungan leluhur",
+      "Bukti heroisme perlawanan bersenjata rakyat di luar pulau Jawa"
+    ]
+  },
+  {
+    "id": 5,
+    "nama": "Radio Klandestin Bawah Tanah",
+    "periode": "1942–1945",
+    "asal": "Jakarta (Menteng 31) & Cirebon",
+    "deskripsi": "Radio penerima gelombang pendek (shortwave) yang disembunyikan secara rahasia oleh kelompok gerakan bawah tanah Sutan Sjahrir dan para pemuda Menteng 31. Melalui radio terlarang inilah para pejuang mengetahui berita bom atom Hiroshima-Nagasaki dan kekalahan mutlak Jepang dari Sekutu.",
+    "material": "Kayu jati, tabung hampa udara (vacuum tube), tembaga, dan bakelit",
+    "tinggi": "35 cm",
+    "koleksi": "Museum Gedung Joang 45, Jakarta",
+    "warna": "#5C3A21",
+    "warnaSekunder": "#FFBF00",
+    "bentuk": "radio",
+    "posisi": { "x": 6, "y": 0, "z": 0 },
+    "skala": 1.0,
+    "fakta": [
+      "Disembunyikan dari razia polisi rahasia Jepang (Kenpeitai)",
+      "Menyadap siaran luar negeri BBC dan Allied Radio secara ilegal",
+      "Menjadi kunci informasi bagi para pemuda mendesak Proklamasi 17 Agustus 1945"
+    ]
+  }
+]

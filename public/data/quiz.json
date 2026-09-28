@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "bab-1",
+    "materiId": 1,
+    "kategori": "Bab 1: Latar Belakang Pendudukan Jepang",
+    "tingkat": "Mudah",
+    "ikon": "🟢",
+    "warna": "#4CAF50",
+    "deskripsi": "Memahami awal mula kedatangan Jepang, penyerahan Belanda, dan propaganda Saudara Tua.",
+    "soal": [
+      {
+        "id": "1-1",
+        "pertanyaan": "Pada tahun berapa tentara Jepang mulai menduduki Indonesia?",
+        "pilihan": {"A": "1940", "B": "1941", "C": "1942", "D": "1945"},
+        "jawabanBenar": "C",
+        "pembahasan": "Jepang mulai menduduki Indonesia pada tahun 1942 setelah berhasil mengalahkan kekuatan Belanda di berbagai wilayah Asia Tenggara."
+      },
+      {
+        "id": "1-2",
+        "pertanyaan": "Perjanjian penyerahan tanpa syarat Belanda kepada Jepang pada 8 Maret 1942 dilaksanakan di...",
+        "pilihan": {"A": "Linggarjati", "B": "Kalijati", "C": "Renville", "D": "Roem-Royen"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perjanjian Kalijati di Subang, Jawa Barat, menandai berakhirnya kekuasaan kolonial Belanda di Indonesia."
+      },
+      {
+        "id": "1-3",
+        "pertanyaan": "Semboyan propaganda Jepang yang menyebut dirinya sebagai pelindung bangsa Asia adalah...",
+        "pilihan": {"A": "Devide et Impera", "B": "Asia untuk Bangsa Asia", "C": "Gold Glory Gospel", "D": "Bhinneka Tunggal Ika"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang mempropagandakan slogan 'Asia untuk Bangsa Asia' dan menyebut dirinya 'Saudara Tua' untuk menarik simpati rakyat Indonesia."
+      },
+      {
+        "id": "1-4",
+        "pertanyaan": "Sumber daya alam utama Indonesia yang paling dibutuhkan Jepang untuk kepentingan perang adalah...",
+        "pilihan": {"A": "Emas dan perak", "B": "Minyak bumi, bahan pangan, dan bahan mentah", "C": "Berlian dan batu bara", "D": "Kayu jati dan karet"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang membutuhkan minyak bumi, bahan pangan, dan bahan mentah Indonesia untuk mendukung mesin perang Pasifik mereka."
+      },
+      {
+        "id": "1-5",
+        "pertanyaan": "Reaksi awal sebagian rakyat Indonesia terhadap kedatangan Jepang adalah...",
+        "pilihan": {"A": "Langsung melakukan perlawanan senjata", "B": "Menyambut dengan harapan karena Jepang mengalahkan Belanda", "C": "Melarikan diri ke hutan", "D": "Meminta bantuan Amerika Serikat"},
+        "jawabanBenar": "B",
+        "pembahasan": "Awalnya rakyat menyambut Jepang karena menganggapnya sesama bangsa Asia yang berhasil mengalahkan penjajah Belanda."
+      }
+    ]
+  },
+  {
+    "id": "bab-2",
+    "materiId": 2,
+    "kategori": "Bab 2: Penyebab Munculnya Perlawanan Rakyat",
+    "tingkat": "Mudah",
+    "ikon": "🟢",
+    "warna": "#4CAF50",
+    "deskripsi": "Memahami faktor-faktor yang mendorong rakyat Indonesia bangkit melawan pendudukan Jepang.",
+    "soal": [
+      {
+        "id": "2-1",
+        "pertanyaan": "Sistem kerja paksa yang diberlakukan Jepang terhadap rakyat Indonesia disebut...",
+        "pilihan": {"A": "Tanam paksa", "B": "Rodi", "C": "Romusha", "D": "Poenale Sanctie"},
+        "jawabanBenar": "C",
+        "pembahasan": "Romusha adalah pengerahan tenaga rakyat secara paksa untuk membangun proyek-proyek militer Jepang dalam kondisi sangat berat."
+      },
+      {
+        "id": "2-2",
+        "pertanyaan": "Kewajiban membungkukkan badan ke arah Tokyo untuk menghormati Kaisar Jepang disebut...",
+        "pilihan": {"A": "Harakiri", "B": "Seikerei", "C": "Bushido", "D": "Kamikaze"},
+        "jawabanBenar": "B",
+        "pembahasan": "Seikerei adalah ritual menghormati Kaisar Hirohito yang ditolak umat Islam karena dianggap syirik/penyembahan berhala."
+      },
+      {
+        "id": "2-3",
+        "pertanyaan": "Polisi militer rahasia Jepang yang dikenal sangat kejam dalam menindak perlawanan adalah...",
+        "pilihan": {"A": "Heiho", "B": "Kenpeitai", "C": "Seinendan", "D": "Keibodan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kenpeitai adalah korps polisi militer Jepang yang berwenang menahan, menyiksa, dan mengeksekusi tanpa peradilan sipil."
+      },
+      {
+        "id": "2-4",
+        "pertanyaan": "Salah satu dampak perampasan hasil pertanian Jepang terhadap kehidupan rakyat adalah...",
+        "pilihan": {"A": "Harga pangan melambung dan petani makmur", "B": "Rakyat mengalami kelaparan dan krisis pangan akut", "C": "Ekspor beras meningkat pesat", "D": "Petani mendapat ganti rugi yang adil"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang memaksa petani menyerahkan sebagian besar panen untuk ransum militer, menyebabkan kelaparan massal di pedesaan."
+      },
+      {
+        "id": "2-5",
+        "pertanyaan": "Faktor keagamaan yang memicu perlawanan di Sukamanah Tasikmalaya adalah...",
+        "pilihan": {"A": "Larangan shalat dan berpuasa", "B": "Pemaksaan Seikerei yang dianggap bertentangan dengan akidah Islam", "C": "Penghancuran masjid oleh tentara Jepang", "D": "Larangan penggunaan bahasa Arab"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kewajiban Seikerei — membungkuk hormat kepada Kaisar sebagai dewa — dianggap syirik oleh ulama dan santri Muslim."
+      }
+    ]
+  },
+  {
+    "id": "bab-3",
+    "materiId": 3,
+    "kategori": "Bab 3: Bentuk-Bentuk Perlawanan terhadap Jepang",
+    "tingkat": "Mudah",
+    "ikon": "🟢",
+    "warna": "#4CAF50",
+    "deskripsi": "Memahami empat strategi utama perlawanan bangsa Indonesia terhadap Jepang.",
+    "soal": [
+      {
+        "id": "3-1",
+        "pertanyaan": "Perlawanan yang dilakukan secara fisik langsung menghadapi tentara Jepang disebut...",
+        "pilihan": {"A": "Perlawanan diplomatik", "B": "Perlawanan bersenjata", "C": "Perlawanan budaya", "D": "Perlawanan ekonomi"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan bersenjata adalah konfrontasi fisik langsung seperti pemberontakan PETA Blitar dan perlawanan rakyat Aceh."
+      },
+      {
+        "id": "3-2",
+        "pertanyaan": "Perlawanan yang dilakukan secara rahasia melalui jaringan pemuda yang disebut...",
+        "pilihan": {"A": "Perlawanan melalui organisasi kooperasi", "B": "Perlawanan gerakan bawah tanah", "C": "Perlawanan keagamaan", "D": "Perlawanan parlementer"},
+        "jawabanBenar": "B",
+        "pembahasan": "Gerakan bawah tanah adalah perlawanan klandestin/rahasia yang dilakukan kelompok pemuda dan pejuang seperti Sjahrir dan Menteng 31."
+      },
+      {
+        "id": "3-3",
+        "pertanyaan": "Tokoh yang memanfaatkan organisasi Putera yang dibentuk Jepang untuk menggalang persatuan bangsa adalah...",
+        "pilihan": {"A": "K.H. Zainal Mustafa dan Pang Suma", "B": "Soekarno, Hatta, Ki Hajar Dewantara, K.H. Mas Mansyur", "C": "Supriyadi dan Muradi", "D": "Tengku Abdul Jalil dan Tengku Hamid"},
+        "jawabanBenar": "B",
+        "pembahasan": "Empat Serangkai (Soekarno, Hatta, Ki Hajar Dewantara, K.H. Mas Mansyur) memanfaatkan Putera untuk menanamkan nasionalisme."
+      },
+      {
+        "id": "3-4",
+        "pertanyaan": "Perlawanan melalui jaringan pesantren dan ceramah agama termasuk kategori...",
+        "pilihan": {"A": "Perlawanan bersenjata", "B": "Gerakan bawah tanah", "C": "Perlawanan sosial dan keagamaan", "D": "Perlawanan kooperasi"},
+        "jawabanBenar": "C",
+        "pembahasan": "Perlawanan sosial-keagamaan menggunakan pesantren, ceramah, dan lembaga agama untuk mempertahankan identitas dan moral bangsa."
+      },
+      {
+        "id": "3-5",
+        "pertanyaan": "Ada berapa bentuk strategi utama perlawanan bangsa Indonesia terhadap Jepang?",
+        "pilihan": {"A": "2", "B": "3", "C": "4", "D": "5"},
+        "jawabanBenar": "C",
+        "pembahasan": "Empat bentuk: (1) Perlawanan Bersenjata, (2) Melalui Organisasi Kooperasi, (3) Gerakan Bawah Tanah, (4) Perlawanan Sosial-Keagamaan."
+      }
+    ]
+  },
+  {
+    "id": "bab-4",
+    "materiId": 4,
+    "kategori": "Bab 4: Perlawanan Rakyat Aceh (Cot Plieng & Meureu)",
+    "tingkat": "Mudah",
+    "ikon": "🟢",
+    "warna": "#4CAF50",
+    "deskripsi": "Memahami perlawanan heroik ulama dan rakyat Aceh terhadap kekejaman militer Jepang.",
+    "soal": [
+      {
+        "id": "4-1",
+        "pertanyaan": "Perlawanan di Cot Plieng, Aceh pada 10 November 1942 dipimpin oleh...",
+        "pilihan": {"A": "Tengku Hamid", "B": "Tengku Abdul Jalil", "C": "Tengku Daud Beureueh", "D": "Teuku Nyak Arif"},
+        "jawabanBenar": "B",
+        "pembahasan": "Tengku Abdul Jalil adalah ulama pesantren Cot Plieng yang memimpin perlawanan dan gugur sebagai syahid saat shalat."
+      },
+      {
+        "id": "4-2",
+        "pertanyaan": "Perlawanan Tengku Hamid di Meureu Aceh terjadi pada tahun...",
+        "pilihan": {"A": "1942", "B": "1943", "C": "1944", "D": "1945"},
+        "jawabanBenar": "C",
+        "pembahasan": "Perlawanan prajurit Giyugun Tengku Hamid di Meureu, Aceh Besar terjadi pada November 1944."
+      },
+      {
+        "id": "4-3",
+        "pertanyaan": "Faktor utama yang mendorong rakyat Aceh melakukan perlawanan terhadap Jepang adalah...",
+        "pilihan": {"A": "Keinginan mendirikan kerajaan Islam merdeka", "B": "Kekejaman tentara Jepang dan penghinaan terhadap nilai-nilai Islam", "C": "Larangan berdagang dengan luar negeri", "D": "Kebijakan perpajakan yang memberatkan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kekejaman militer Jepang dan penghinaan terhadap nilai Islam menjadi faktor utama pemicu perlawanan rakyat Aceh."
+      },
+      {
+        "id": "4-4",
+        "pertanyaan": "Tengku Abdul Jalil gugur dalam pertempuran saat...",
+        "pilihan": {"A": "Memimpin serangan ke markas Jepang", "B": "Sedang berpidato di alun-alun", "C": "Sedang melaksanakan shalat", "D": "Berusaha melarikan diri ke hutan"},
+        "jawabanBenar": "C",
+        "pembahasan": "Tengku Abdul Jalil gugur sebagai syahid saat sedang melaksanakan shalat ketika Jepang menyerang pesantren Cot Plieng."
+      },
+      {
+        "id": "4-5",
+        "pertanyaan": "Berapa kali gelombang serangan Jepang yang berhasil dihadang rakyat Cot Plieng sebelum akhirnya kalah?",
+        "pilihan": {"A": "Satu kali", "B": "Dua kali", "C": "Tiga kali", "D": "Lima kali"},
+        "jawabanBenar": "C",
+        "pembahasan": "Rakyat Cot Plieng berhasil memberikan perlawanan sengit hingga tiga gelombang serangan pasukan Jepang yang bersenjata modern."
+      }
+    ]
+  },
+  {
+    "id": "bab-5",
+    "materiId": 5,
+    "kategori": "Bab 5: Perlawanan Rakyat Sukamanah, Tasikmalaya",
+    "tingkat": "Mudah",
+    "ikon": "🟢",
+    "warna": "#4CAF50",
+    "deskripsi": "Memahami perlawanan santri K.H. Zainal Mustafa yang menolak Seikerei dan pemaksaan romusha.",
+    "soal": [
+      {
+        "id": "5-1",
+        "pertanyaan": "Pemimpin perlawanan Sukamanah Tasikmalaya adalah...",
+        "pilihan": {"A": "K.H. Hasyim Asy'ari", "B": "K.H. Ahmad Dahlan", "C": "K.H. Zainal Mustafa", "D": "K.H. Agus Salim"},
+        "jawabanBenar": "C",
+        "pembahasan": "K.H. Zainal Mustafa adalah pendiri Pesantren Sukamanah di Singaparna, Tasikmalaya yang memimpin perlawanan santri."
+      },
+      {
+        "id": "5-2",
+        "pertanyaan": "Perlawanan Sukamanah terletak di daerah...",
+        "pilihan": {"A": "Bandung, Jawa Barat", "B": "Singaparna, Tasikmalaya, Jawa Barat", "C": "Blitar, Jawa Timur", "D": "Cilacap, Jawa Tengah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan Sukamanah terjadi di Singaparna, Tasikmalaya, Jawa Barat, berpusat di pesantren K.H. Zainal Mustafa."
+      },
+      {
+        "id": "5-3",
+        "pertanyaan": "Senjata yang digunakan rakyat Sukamanah melawan tentara bersenjata Jepang adalah...",
+        "pilihan": {"A": "Senapan dan pistol", "B": "Bambu runcing dan senjata tajam", "C": "Granat dan dinamit", "D": "Meriam dan mortir"},
+        "jawabanBenar": "B",
+        "pembahasan": "Rakyat dan santri Sukamanah hanya menggunakan bambu runcing dan senjata tajam tradisional melawan senapan otomatis militer Jepang."
+      },
+      {
+        "id": "5-4",
+        "pertanyaan": "Akhir dari perjuangan K.H. Zainal Mustafa adalah...",
+        "pilihan": {"A": "Berhasil mengusir Jepang dari Tasikmalaya", "B": "Ditangkap dan dijatuhi hukuman mati di Ancol, Jakarta", "C": "Diasingkan ke Pulau Buru", "D": "Berhasil melarikan diri ke Australia"},
+        "jawabanBenar": "B",
+        "pembahasan": "K.H. Zainal Mustafa ditangkap bersama puluhan santrinya, dibawa ke Jakarta, dan dijatuhi hukuman mati di Ancol."
+      },
+      {
+        "id": "5-5",
+        "pertanyaan": "Nilai utama yang dapat diteladani dari perlawanan Sukamanah adalah...",
+        "pilihan": {"A": "Ketidakpedulian terhadap nasib orang lain", "B": "Keteguhan prinsip keimanan dan keberanian melawan penindasan", "C": "Keinginan meraih kekuasaan politik pribadi", "D": "Sikap kooperatif dengan penjajah demi keselamatan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan Sukamanah mewariskan nilai keteguhan iman, keberanian melawan tirani, dan persatuan santri-rakyat."
+      }
+    ]
+  },
+  {
+    "id": "bab-6",
+    "materiId": 6,
+    "kategori": "Bab 6: Perlawanan Petani Indramayu",
+    "tingkat": "Sedang",
+    "ikon": "🟡",
+    "warna": "#FF9800",
+    "deskripsi": "Memahami perlawanan petani Indramayu akibat pemaksaan penyerahan padi oleh Jepang.",
+    "soal": [
+      {
+        "id": "6-1",
+        "pertanyaan": "Perlawanan petani Indramayu pertama kali meletus di daerah...",
+        "pilihan": {"A": "Kecamatan Sindang", "B": "Desa Kaplongan, Karangampel", "C": "Kota Cirebon", "D": "Kecamatan Lohbener"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan petani Indramayu pertama kali meletus di Desa Kaplongan, Karangampel pada April 1944."
+      },
+      {
+        "id": "6-2",
+        "pertanyaan": "Pemimpin perlawanan petani Indramayu adalah...",
+        "pilihan": {"A": "Tengku Abdul Jalil", "B": "K.H. Zainal Mustafa", "C": "Haji Madriyas", "D": "Pang Suma"},
+        "jawabanBenar": "C",
+        "pembahasan": "Haji Madriyas memimpin perlawanan petani Indramayu yang memberontak akibat paksaan penyerahan padi untuk ransum militer Jepang."
+      },
+      {
+        "id": "6-3",
+        "pertanyaan": "Penyebab utama meletusnya perlawanan petani Indramayu adalah...",
+        "pilihan": {"A": "Kewajiban melaksanakan Seikerei", "B": "Paksaan penyerahan hasil panen padi yang menyebabkan kelaparan massal", "C": "Penerapan sistem romusha di ladang pertanian", "D": "Larangan menanam padi oleh militer Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Petani Indramayu memberontak karena beras mereka dirampas secara paksa untuk kebutuhan ransum perang Jepang, menimbulkan kelaparan."
+      },
+      {
+        "id": "6-4",
+        "pertanyaan": "Kecamatan mana yang menjadi pusat perlawanan petani Indramayu selain Karangampel?",
+        "pilihan": {"A": "Sindang dan Lohbener", "B": "Indramayu Kota dan Jatibarang", "C": "Haurgeulis dan Anjatan", "D": "Bongas dan Patrol"},
+        "jawabanBenar": "A",
+        "pembahasan": "Perlawanan petani Indramayu juga melibatkan kecamatan Sindang dan Lohbener sebagai pusat-pusat pemberontakan."
+      },
+      {
+        "id": "6-5",
+        "pertanyaan": "Perlawanan petani Indramayu termasuk dalam kategori perlawanan...",
+        "pilihan": {"A": "Perlawanan terorganisir militer", "B": "Perlawanan rakyat bersenjata yang dipicu faktor ekonomi/pangan", "C": "Perlawanan gerakan bawah tanah", "D": "Perlawanan melalui jalur diplomasi"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan Indramayu adalah perlawanan rakyat bersenjata yang dipicu faktor ekonomi — perampasan hasil pertanian oleh Jepang."
+      },
+      {
+        "id": "6-6",
+        "pertanyaan": "Tahun berapa perlawanan petani Indramayu meletus?",
+        "pilihan": {"A": "1942", "B": "1943", "C": "1944", "D": "1945"},
+        "jawabanBenar": "C",
+        "pembahasan": "Perlawanan petani Indramayu meletus pada April 1944, dipicu oleh paksaan penyerahan padi yang semakin menyengsarakan."
+      }
+    ]
+  },
+  {
+    "id": "bab-7",
+    "materiId": 7,
+    "kategori": "Bab 7: Pemberontakan PETA di Blitar",
+    "tingkat": "Sedang",
+    "ikon": "🟡",
+    "warna": "#FF9800",
+    "deskripsi": "Memahami pemberontakan militer PETA di Blitar 14 Februari 1945 dipimpin Shodancho Supriyadi.",
+    "soal": [
+      {
+        "id": "7-1",
+        "pertanyaan": "PETA adalah singkatan dari...",
+        "pilihan": {"A": "Pasukan Elit Tanah Air", "B": "Pembela Tanah Air", "C": "Persatuan Tentara Asia", "D": "Pergerakan Tenaga Anonim"},
+        "jawabanBenar": "B",
+        "pembahasan": "PETA (Kyodo Boei Giyugun) singkatan dari Pembela Tanah Air, dibentuk Jepang pada 3 Oktober 1943."
+      },
+      {
+        "id": "7-2",
+        "pertanyaan": "Pemimpin pemberontakan PETA di Blitar pada 14 Februari 1945 adalah...",
+        "pilihan": {"A": "Jenderal Sudirman", "B": "Gatot Subroto", "C": "Shodancho Supriyadi", "D": "Slamet Riyadi"},
+        "jawabanBenar": "C",
+        "pembahasan": "Shodancho Supriyadi memimpin perwira muda PETA Daidan Blitar memberontak melawan kekejaman Jepang dan penderitaan romusha."
+      },
+      {
+        "id": "7-3",
+        "pertanyaan": "Faktor utama yang mendorong pemberontakan PETA di Blitar adalah...",
+        "pilihan": {"A": "Keinginan merebut senjata Jepang", "B": "Penderitaan rakyat akibat romusha dan kekejaman Jepang yang membuat perwira PETA tidak tahan", "C": "Perintah rahasia dari Soekarno", "D": "Tekanan dari Sekutu untuk melawan Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perwira PETA tidak tahan melihat penderitaan rakyat akibat romusha dan kekejaman Kenpeitai, mendorong mereka memberontak."
+      },
+      {
+        "id": "7-4",
+        "pertanyaan": "Perwira PETA Blitar yang memimpin kelompok yang berhasil dibujuk menyerah oleh Kolonel Katagiri adalah...",
+        "pilihan": {"A": "Supriyadi", "B": "Muradi", "C": "Khusaeri", "D": "Sunanto"},
+        "jawabanBenar": "B",
+        "pembahasan": "Muradi memimpin kelompok yang berhasil dilucuti oleh Kolonel Katagiri melalui tipu muslihat janji pengampunan."
+      },
+      {
+        "id": "7-5",
+        "pertanyaan": "Apa yang terjadi pada Shodancho Supriyadi setelah pemberontakan PETA Blitar?",
+        "pilihan": {"A": "Ditangkap dan dieksekusi di Ancol", "B": "Berhasil melarikan diri ke luar negeri", "C": "Menghilang secara misterius dan tidak pernah ditemukan", "D": "Menyerah dan diasingkan ke Tokyo"},
+        "jawabanBenar": "C",
+        "pembahasan": "Supriyadi menghilang tanpa jejak; diangkat in absentia sebagai Menteri Keamanan Rakyat RI pertama namun tidak pernah hadir."
+      },
+      {
+        "id": "7-6",
+        "pertanyaan": "Para perwira PETA Blitar yang berhasil ditangkap akhirnya diadili dan dieksekusi di...",
+        "pilihan": {"A": "Blitar, Jawa Timur", "B": "Pantai Ancol, Jakarta", "C": "Surabaya, Jawa Timur", "D": "Bandung, Jawa Barat"},
+        "jawabanBenar": "B",
+        "pembahasan": "Para perwira PETA yang ditangkap dibawa ke Jakarta dan dieksekusi di Pantai Ancol meskipun Katagiri berjanji pengampunan."
+      }
+    ]
+  },
+  {
+    "id": "bab-8",
+    "materiId": 8,
+    "kategori": "Bab 8: Perlawanan PETA di Daerah Lain",
+    "tingkat": "Sedang",
+    "ikon": "🟡",
+    "warna": "#FF9800",
+    "deskripsi": "Memahami pemberontakan PETA Gumilir Cilacap dan berbagai aksi pembangkangan PETA di luar Blitar.",
+    "soal": [
+      {
+        "id": "8-1",
+        "pertanyaan": "Pemberontakan PETA di Gumilir, Cilacap pada April 1945 dipimpin oleh...",
+        "pilihan": {"A": "Shodancho Supriyadi", "B": "Budancho Khusaeri", "C": "Chudancho Muradi", "D": "Daidancho Halim"},
+        "jawabanBenar": "B",
+        "pembahasan": "Budancho Khusaeri memimpin regu PETA di Gumilir Cilacap melarikan diri ke hutan dan melakukan kontak senjata melawan Jepang."
+      },
+      {
+        "id": "8-2",
+        "pertanyaan": "Pangkat 'Budancho' dalam struktur PETA setara dengan komandan...",
+        "pilihan": {"A": "Batalyon", "B": "Kompi", "C": "Peleton", "D": "Regu"},
+        "jawabanBenar": "D",
+        "pembahasan": "Hierarki PETA: Daidancho (Batalyon) → Chudancho (Kompi) → Shodancho (Peleton) → Budancho (Regu/seksi)."
+      },
+      {
+        "id": "8-3",
+        "pertanyaan": "Selain Blitar dan Gumilir, wilayah mana di Sumatra yang juga mencatat pembangkangan tentara lokal terhadap Jepang?",
+        "pilihan": {"A": "Medan", "B": "Aceh (Giyugun Meureu)", "C": "Padang", "D": "Palembang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Di Aceh, perwira Giyugun (satuan setara PETA untuk Sumatra) Tengku Hamid memimpin pembangkangan di Meureu pada 1944."
+      },
+      {
+        "id": "8-4",
+        "pertanyaan": "Perbedaan nama satuan militer lokal Jepang antara Jawa dan Sumatra adalah...",
+        "pilihan": {"A": "Di Jawa disebut Giyugun, di Sumatra disebut PETA", "B": "Di Jawa disebut PETA, di Sumatra disebut Giyugun", "C": "Keduanya disebut Heiho", "D": "Di Jawa disebut Keibodan, di Sumatra disebut Seinendan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Satuan militer lokal Jepang di Jawa disebut PETA, sementara di Sumatra disebut Giyugun — keduanya berfungsi sebagai pasukan pertahanan teritorial."
+      },
+      {
+        "id": "8-5",
+        "pertanyaan": "Tindakan perlawanan yang dilakukan Budancho Khusaeri di Gumilir adalah...",
+        "pilihan": {"A": "Menyerang markas Kenpeitai secara frontal", "B": "Melarikan diri ke hutan bersama pasukannya dan melakukan gerilya", "C": "Mengirim surat protes kepada komandan Jepang", "D": "Membakar gudang senjata Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Khusaeri dan pasukannya melarikan diri ke hutan, menolak tunduk pada perintah Jepang dan melancarkan perlawanan gerilya."
+      },
+      {
+        "id": "8-6",
+        "pertanyaan": "Pemberontakan PETA secara umum merupakan bukti bahwa...",
+        "pilihan": {"A": "Militer Jepang sangat kuat dan tak tertandingi", "B": "Perwira-perwira PETA yang dilatih Jepang justru berbalik melawan mereka", "C": "Jepang berhasil mengindoktrinasi seluruh prajurit PETA", "D": "Perlawanan hanya datang dari rakyat sipil biasa"},
+        "jawabanBenar": "B",
+        "pembahasan": "PETA yang dibentuk Jepang untuk mempertahankan wilayah justru menjadi ancaman internal karena perwiranya berpihak pada rakyat."
+      }
+    ]
+  },
+  {
+    "id": "bab-9",
+    "materiId": 9,
+    "kategori": "Bab 9: Perlawanan Rakyat di Kalimantan",
+    "tingkat": "Sedang",
+    "ikon": "🟡",
+    "warna": "#FF9800",
+    "deskripsi": "Memahami perlawanan laskar Dayak dan Tragedi Mandor di Kalimantan Barat.",
+    "soal": [
+      {
+        "id": "9-1",
+        "pertanyaan": "Tokoh pejuang Dayak yang memimpin perlawanan gerilya di Meliau dan Tayan, Kalimantan Barat adalah...",
+        "pilihan": {"A": "Pangeran Antasari", "B": "Pang Suma", "C": "Silas Papare", "D": "Tjilik Riwut"},
+        "jawabanBenar": "B",
+        "pembahasan": "Pang Suma memimpin laskar pejuang Dayak memanfaatkan senjata tradisional Mandau dalam perang gerilya di pedalaman Kalbar."
+      },
+      {
+        "id": "9-2",
+        "pertanyaan": "Angkatan militer Jepang yang menguasai dan bertanggung jawab atas wilayah Kalimantan adalah...",
+        "pilihan": {"A": "Tentara ke-16 (Rikugun)", "B": "Tentara ke-25 (Rikugun)", "C": "Kaigun (Armada Laut Selatan Kedua)", "D": "Tentara ke-14 (Rikugun)"},
+        "jawabanBenar": "C",
+        "pembahasan": "Wilayah Indonesia Timur termasuk Kalimantan dikuasai Kaigun (Angkatan Laut Jepang) — Armada Selatan Kedua berpusat di Makassar."
+      },
+      {
+        "id": "9-3",
+        "pertanyaan": "Peristiwa pembantaian massal ribuan cendekiawan, dokter, dan sultan oleh Jepang di Kalimantan Barat dikenal sebagai...",
+        "pilihan": {"A": "Tragedi Rawagede", "B": "Peristiwa Rengasdengklok", "C": "Tragedi Mandor", "D": "Insiden Jembatan Merah"},
+        "jawabanBenar": "C",
+        "pembahasan": "Tragedi Mandor (1943-1944) adalah pembunuhan massal oleh Kaigun Jepang terhadap kaum terpelajar dan bangsawan Kalimantan Barat."
+      },
+      {
+        "id": "9-4",
+        "pertanyaan": "Mengapa Kaigun Jepang melakukan pembantaian massal terhadap kaum elit di Kalimantan Barat?",
+        "pilihan": {"A": "Karena mereka menolak membayar pajak", "B": "Karena Kaigun khawatir kaum terpelajar dan sultan akan memimpin perlawanan", "C": "Karena mereka dituduh membantu Sekutu", "D": "Karena ada perintah langsung dari Tokyo"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kaigun menganggap kaum cendekiawan, sultan, dan tokoh berpengaruh sebagai ancaman potensial yang dapat memimpin perlawanan rakyat."
+      },
+      {
+        "id": "9-5",
+        "pertanyaan": "Senjata tradisional khas yang digunakan laskar Dayak pimpinan Pang Suma dalam perlawanan gerilya adalah...",
+        "pilihan": {"A": "Tombak panjang", "B": "Sumpit beracun dan Mandau", "C": "Keris dan pedang", "D": "Busur dan anak panah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Laskar Dayak menggunakan senjata tradisional Mandau (parang panjang khas Dayak) dan sumpit beracun dalam perang gerilya hutan."
+      },
+      {
+        "id": "9-6",
+        "pertanyaan": "Perlawanan rakyat Kalimantan Barat menunjukkan bahwa...",
+        "pilihan": {"A": "Hanya tentara profesional yang mampu melawan Jepang", "B": "Semangat mempertahankan tanah air muncul di seluruh lapisan masyarakat dari berbagai suku", "C": "Perlawanan hanya mungkin terjadi di Jawa saja", "D": "Jepang diperlakukan baik oleh masyarakat Kalimantan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan di Kalimantan membuktikan bahwa semangat perlawanan muncul di seluruh nusantara dari berbagai suku dan lapisan masyarakat."
+      }
+    ]
+  },
+  {
+    "id": "bab-10",
+    "materiId": 10,
+    "kategori": "Bab 10: Perlawanan di Sumatra & Korps Giyugun",
+    "tingkat": "Sedang",
+    "ikon": "🟡",
+    "warna": "#FF9800",
+    "deskripsi": "Memahami perlawanan bersenjata di Sumatra termasuk perlawanan Giyugun Meureu Aceh.",
+    "soal": [
+      {
+        "id": "10-1",
+        "pertanyaan": "Satuan militer lokal yang dibentuk Jepang di Sumatra (setara PETA di Jawa) disebut...",
+        "pilihan": {"A": "Heiho", "B": "Seinendan", "C": "Giyugun", "D": "Keibodan"},
+        "jawabanBenar": "C",
+        "pembahasan": "Giyugun adalah pasukan sukarela lokal yang dibentuk Jepang di Sumatra sebagai penyeimbang PETA di Jawa untuk pertahanan teritorial."
+      },
+      {
+        "id": "10-2",
+        "pertanyaan": "Komandan Tentara ke-25 Jepang yang menguasai wilayah Sumatra bermarkas di...",
+        "pilihan": {"A": "Medan", "B": "Padang", "C": "Bukittinggi", "D": "Palembang"},
+        "jawabanBenar": "C",
+        "pembahasan": "Tentara ke-25 Rikugun yang menguasai Sumatra bermarkas besar di Bukittinggi, Sumatera Barat."
+      },
+      {
+        "id": "10-3",
+        "pertanyaan": "Perlawanan Giyugun di Meureu Aceh dipimpin oleh...",
+        "pilihan": {"A": "Tengku Abdul Jalil", "B": "Tengku Hamid", "C": "Tengku Daud Beureueh", "D": "Teuku Nyak Arif"},
+        "jawabanBenar": "B",
+        "pembahasan": "Tengku Hamid memimpin pasukan Giyugun di Meureu, Aceh Besar pada November 1944 melakukan aksi pembangkangan bersenjata."
+      },
+      {
+        "id": "10-4",
+        "pertanyaan": "Perbedaan utama antara kondisi perlawanan di Sumatra dan Jawa terhadap Jepang adalah...",
+        "pilihan": {"A": "Di Sumatra tidak ada perlawanan sama sekali", "B": "Di Sumatra perlawanan bersifat lebih tersebar di berbagai etnik dan wilayah yang luas", "C": "Di Sumatra semua perlawanan berhasil mengusir Jepang", "D": "Di Sumatra Jepang lebih bersikap baik kepada rakyat"},
+        "jawabanBenar": "B",
+        "pembahasan": "Luas wilayah Sumatra dan keberagaman etniknya menyebabkan perlawanan lebih tersebar dan beragam dibanding di Jawa yang lebih terpusat."
+      },
+      {
+        "id": "10-5",
+        "pertanyaan": "Perlawanan di Sumatra umumnya dipicu oleh faktor-faktor yang sama dengan Jawa, yaitu...",
+        "pilihan": {"A": "Hanya faktor agama semata", "B": "Romusha, perampasan pangan, dan kekejaman militer", "C": "Hanya karena paksaan bergabung tentara", "D": "Pengaruh propaganda Sekutu melalui radio"},
+        "jawabanBenar": "B",
+        "pembahasan": "Seperti di Jawa, perlawanan di Sumatra dipicu kombinasi romusha, perampasan hasil pertanian, dan kekejaman aparat militer Jepang."
+      },
+      {
+        "id": "10-6",
+        "pertanyaan": "Nilai penting dari perlawanan di Sumatra dan Kalimantan dalam konteks nasional adalah...",
+        "pilihan": {"A": "Membuktikan bahwa perlawanan lokal sudah cukup tanpa persatuan nasional", "B": "Menunjukkan bahwa semangat kemerdekaan bukan milik satu pulau atau suku saja", "C": "Membuktikan bahwa tentara Jepang mudah dikalahkan", "D": "Menunjukkan bahwa perang saudara tidak bisa dihindari"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan di luar Jawa membuktikan bahwa semangat kemerdekaan adalah milik seluruh bangsa Indonesia dari Sabang sampai Merauke."
+      }
+    ]
+  },
+  {
+    "id": "bab-11",
+    "materiId": 11,
+    "kategori": "Bab 11: Mengapa Jepang Membentuk PETA?",
+    "tingkat": "Sulit",
+    "ikon": "🔴",
+    "warna": "#E53935",
+    "deskripsi": "Menganalisis motif strategis Jepang membentuk PETA dan ironi keberadaan satuan ini.",
+    "soal": [
+      {
+        "id": "11-1",
+        "pertanyaan": "Tanggal resmi pembentukan PETA (Kyodo Boei Giyugun) adalah...",
+        "pilihan": {"A": "8 Maret 1942", "B": "3 Oktober 1943", "C": "14 Februari 1945", "D": "17 Agustus 1945"},
+        "jawabanBenar": "B",
+        "pembahasan": "PETA secara resmi dibentuk oleh Jepang pada 3 Oktober 1943 melalui Osamu Seirei (maklumat militer) nomor 44."
+      },
+      {
+        "id": "11-2",
+        "pertanyaan": "Alasan strategis utama Jepang membentuk PETA adalah...",
+        "pilihan": {"A": "Untuk memberikan kemerdekaan kepada Indonesia", "B": "Posisi militer Jepang yang terdesak Sekutu memaksa mereka merekrut pasukan lokal", "C": "Untuk melatih tentara Indonesia menjadi tentara kelas dunia", "D": "Atas permintaan tokoh-tokoh nasionalis Indonesia"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kekalahan Jepang dalam Pertempuran Guadalcanal (1943) dan terdesak di Pasifik memaksa Jepang membentuk pasukan bantuan dari penduduk lokal."
+      },
+      {
+        "id": "11-3",
+        "pertanyaan": "Pusat pelatihan perwira PETA pertama berlokasi di...",
+        "pilihan": {"A": "Surabaya, Jawa Timur", "B": "Bandung, Jawa Barat", "C": "Bogor, Jawa Barat", "D": "Magelang, Jawa Tengah"},
+        "jawabanBenar": "C",
+        "pembahasan": "Pusat Pendidikan Perwira PETA (Bo-ei Giyugun Kanbu Renseitai) didirikan di Bogor pada akhir 1943."
+      },
+      {
+        "id": "11-4",
+        "pertanyaan": "Ironi terbesar dari pembentukan PETA oleh Jepang adalah...",
+        "pilihan": {"A": "PETA tidak pernah digunakan dalam pertempuran apapun", "B": "Pasukan yang dilatih Jepang justru berbalik memberontak melawan mereka sendiri", "C": "PETA lebih efektif dari tentara Jepang sendiri", "D": "PETA akhirnya bergabung dengan pasukan Sekutu"},
+        "jawabanBenar": "B",
+        "pembahasan": "PETA yang dibentuk untuk mempertahankan kepentingan Jepang justru menjelma menjadi ancaman internal ketika perwiranya memberontak di Blitar dan Gumilir."
+      },
+      {
+        "id": "11-5",
+        "pertanyaan": "Pangkat tertinggi dalam struktur organisasi PETA di tingkat lapangan adalah...",
+        "pilihan": {"A": "Budancho", "B": "Shodancho", "C": "Chudancho", "D": "Daidancho"},
+        "jawabanBenar": "D",
+        "pembahasan": "Daidancho (Komandan Batalyon) adalah pangkat tertinggi PETA di lapangan, setara mayor dalam militer modern."
+      },
+      {
+        "id": "11-6",
+        "pertanyaan": "Warisan terpenting keberadaan PETA bagi Indonesia merdeka adalah...",
+        "pilihan": {"A": "Persenjataan modern yang ditinggalkan Jepang", "B": "Tersedianya kader perwira militer berpengalaman yang menjadi tulang punggung TNI", "C": "Jaringan intelijen yang diwarisi dari Kenpeitai", "D": "Sistem logistik militer yang efisien"},
+        "jawabanBenar": "B",
+        "pembahasan": "Para mantan perwira PETA seperti Sudirman, AH Nasution, dan ribuan lainnya menjadi fondasi pembentukan Tentara Nasional Indonesia (TNI)."
+      },
+      {
+        "id": "11-7",
+        "pertanyaan": "Jumlah daidan (batalyon) PETA yang berhasil dibentuk Jepang di Jawa dan Bali adalah...",
+        "pilihan": {"A": "25 daidan", "B": "66 daidan", "C": "100 daidan", "D": "150 daidan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang berhasil membentuk 66 daidan PETA di seluruh Jawa dan Bali, dengan total puluhan ribu prajurit dan perwira terlatih."
+      }
+    ]
+  },
+  {
+    "id": "bab-12",
+    "materiId": 12,
+    "kategori": "Bab 12: Perlawanan Melalui Gerakan Bawah Tanah",
+    "tingkat": "Sulit",
+    "ikon": "🔴",
+    "warna": "#E53935",
+    "deskripsi": "Menganalisis strategi klandestin Sjahrir, Amir Sjarifuddin, dan jaringan pemuda Menteng 31.",
+    "soal": [
+      {
+        "id": "12-1",
+        "pertanyaan": "Tokoh utama gerakan bawah tanah yang menyadap siaran radio Sekutu secara rahasia adalah...",
+        "pilihan": {"A": "Soekarno", "B": "Sutan Sjahrir", "C": "Mohammad Hatta", "D": "Ki Hajar Dewantara"},
+        "jawabanBenar": "B",
+        "pembahasan": "Sutan Sjahrir memimpin jaringan klandestin yang menyadap siaran BBC dan radio Sekutu untuk memantau perkembangan perang dan menyebarkan informasi."
+      },
+      {
+        "id": "12-2",
+        "pertanyaan": "Asrama pemuda radikal yang menjadi basis gerakan anti-fasis Jepang berlokasi di...",
+        "pilihan": {"A": "Pegangsaan Timur 56", "B": "Menteng 31, Jakarta", "C": "Gambir Selatan 12", "D": "Cikini 13"},
+        "jawabanBenar": "B",
+        "pembahasan": "Asrama Menteng 31 menjadi pusat kaderisasi pemuda revolusioner (Sukarni, Wikana, Chaerul Saleh) yang mendesak proklamasi tanpa campur tangan Jepang."
+      },
+      {
+        "id": "12-3",
+        "pertanyaan": "Tokoh gerakan bawah tanah yang juga menjadi pemimpin organisasi Gerindo dan berafiliasi komunis adalah...",
+        "pilihan": {"A": "Sutan Sjahrir", "B": "Amir Sjarifuddin", "C": "Sukarni", "D": "Adam Malik"},
+        "jawabanBenar": "B",
+        "pembahasan": "Amir Sjarifuddin adalah pemimpin gerakan bawah tanah yang berafiliasi dengan Partai Komunis, mendapat dana rahasia dari Belanda."
+      },
+      {
+        "id": "12-4",
+        "pertanyaan": "Mengapa gerakan bawah tanah menjadi salah satu strategi perlawanan yang paling efektif?",
+        "pilihan": {"A": "Karena tidak memerlukan biaya sama sekali", "B": "Karena dapat terus beroperasi tanpa terdeteksi Kenpeitai dan menyiapkan kader kemerdekaan", "C": "Karena mendapat dukungan penuh dari Jepang", "D": "Karena melibatkan seluruh rakyat secara terbuka"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kerahasiaan gerakan bawah tanah memungkinkan mereka beroperasi di bawah radar Kenpeitai sambil mempersiapkan kader dan momentum proklamasi."
+      },
+      {
+        "id": "12-5",
+        "pertanyaan": "Informasi yang disadap dari radio Sekutu digunakan Sjahrir untuk...",
+        "pilihan": {"A": "Menjual kepada Jepang dengan harga tinggi", "B": "Memantau perkembangan kekalahan Jepang dan menyiapkan momentum proklamasi", "C": "Mengirim laporan kepada pasukan Sekutu", "D": "Menyebarluaskan propaganda pro-Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Informasi dari siaran BBC membantu Sjahrir mengetahui kondisi kekalahan Jepang lebih awal, sehingga bisa menyiapkan proklamasi kemerdekaan."
+      },
+      {
+        "id": "12-6",
+        "pertanyaan": "Pemuda Menteng 31 yang mendesak Soekarno segera memproklamasikan kemerdekaan termasuk...",
+        "pilihan": {"A": "Sukarni, Wikana, dan Chaerul Saleh", "B": "Supriyadi, Muradi, dan Khusaeri", "C": "Tengku Hamid, Pang Suma, dan Haji Madriyas", "D": "Ki Hajar Dewantara, K.H. Mas Mansyur, dan Hatta"},
+        "jawabanBenar": "A",
+        "pembahasan": "Sukarni, Wikana, dan Chaerul Saleh adalah tokoh pemuda Menteng 31 yang menculik Soekarno-Hatta ke Rengasdengklok untuk mendesak proklamasi."
+      },
+      {
+        "id": "12-7",
+        "pertanyaan": "Risiko terbesar yang dihadapi anggota gerakan bawah tanah jika tertangkap Kenpeitai adalah...",
+        "pilihan": {"A": "Denda dan kerja sosial", "B": "Penyiksaan, penjara, atau eksekusi mati", "C": "Pengasingan ke luar negeri", "D": "Pencabutan hak politik"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kenpeitai terkenal brutal dalam menangani tersangka perlawanan — penganiayaan, hukuman penjara, hingga eksekusi tanpa pengadilan."
+      }
+    ]
+  },
+  {
+    "id": "bab-13",
+    "materiId": 13,
+    "kategori": "Bab 13: Propaganda Jepang dan Kenyataannya",
+    "tingkat": "Sulit",
+    "ikon": "🔴",
+    "warna": "#E53935",
+    "deskripsi": "Menganalisis kontradiksi antara propaganda Gerakan 3A, Putera, dan realita eksploitasi Jepang.",
+    "soal": [
+      {
+        "id": "13-1",
+        "pertanyaan": "Gerakan 3A yang dipropagandakan Jepang terdiri dari slogan...",
+        "pilihan": {"A": "Asia Satu, Asia Bersatu, Asia Merdeka", "B": "Nippon Pemimpin Asia, Nippon Pelindung Asia, Nippon Cahaya Asia", "C": "Asia untuk Asia, Asia Bangkit, Asia Jaya", "D": "Jepang Sahabat, Jepang Pelindung, Jepang Pembebas"},
+        "jawabanBenar": "B",
+        "pembahasan": "Gerakan 3A berslogan: Nippon Pemimpin Asia, Nippon Pelindung Asia, Nippon Cahaya Asia — propaganda untuk menggalang dukungan rakyat."
+      },
+      {
+        "id": "13-2",
+        "pertanyaan": "Organisasi resmi bentukan Jepang yang dipimpin Empat Serangkai untuk menghimpun potensi rakyat adalah...",
+        "pilihan": {"A": "Gerindo", "B": "Parindra", "C": "Putera (Pusat Tenaga Rakyat)", "D": "Gapi"},
+        "jawabanBenar": "C",
+        "pembahasan": "Putera (Pusat Tenaga Rakyat) didirikan Maret 1943 dipimpin Soekarno-Hatta-Ki Hajar Dewantara-K.H. Mas Mansyur untuk 'membantu' Jepang namun dipakai menggalang nasionalisme."
+      },
+      {
+        "id": "13-3",
+        "pertanyaan": "Kenyataan yang berbeda 180 derajat dari propaganda 'Saudara Tua' Jepang adalah...",
+        "pilihan": {"A": "Jepang membebaskan Indonesia dari utang kepada Belanda", "B": "Indonesia justru dieksploitasi habis-habisan demi kepentingan perang Pasifik Jepang", "C": "Jepang memberikan kemerdekaan penuh sejak 1943", "D": "Jepang membangun infrastruktur modern tanpa menguras rakyat"},
+        "jawabanBenar": "B",
+        "pembahasan": "Di balik slogan 'Saudara Tua', Jepang menguras sumber daya alam Indonesia dan memperbudak jutaan rakyat melalui romusha."
+      },
+      {
+        "id": "13-4",
+        "pertanyaan": "Lembaga konsultatif bentukan Jepang yang berfungsi sebagai penasehat militer (namun sangat terbatas) adalah...",
+        "pilihan": {"A": "BPUPK", "B": "Chuo Sangi In", "C": "Jawa Hokokai", "D": "Putera"},
+        "jawabanBenar": "B",
+        "pembahasan": "Chuo Sangi In (Dewan Pertimbangan Pusat) dibentuk 1943 sebagai badan penasehat militer Jepang dengan wewenang sangat terbatas."
+      },
+      {
+        "id": "13-5",
+        "pertanyaan": "Kebijakan Jepang yang secara tidak sengaja mempercepat penyebaran bahasa Indonesia adalah...",
+        "pilihan": {"A": "Mewajibkan semua sekolah menggunakan bahasa Jepang", "B": "Melarang total penggunaan bahasa Belanda dan memposisikan bahasa Indonesia sebagai pengganti", "C": "Menyebarkan kamus bahasa Indonesia-Jepang gratis", "D": "Membuka sekolah bahasa Indonesia di seluruh pelosok"},
+        "jawabanBenar": "B",
+        "pembahasan": "Pelarangan bahasa Belanda mendorong penggunaan bahasa Indonesia secara masif di sekolah, media, dan administrasi — memperkuat identitas nasional."
+      },
+      {
+        "id": "13-6",
+        "pertanyaan": "Mengapa Jepang akhirnya membubarkan Putera pada 1944 dan menggantinya dengan Jawa Hokokai?",
+        "pilihan": {"A": "Karena Putera tidak efektif dalam menggalang romusha", "B": "Karena Jepang menyadari Putera dimanfaatkan tokoh nasionalis untuk kepentingan Indonesia, bukan Jepang", "C": "Karena Putera terlibat sabotase terhadap Jepang", "D": "Karena anggaran Putera terlalu membebani keuangan Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang membubarkan Putera karena menyadari Soekarno dan Hatta menggunakannya untuk tujuan nasionalisme Indonesia, bukan untuk kepentingan perang Jepang."
+      },
+      {
+        "id": "13-7",
+        "pertanyaan": "Propaganda 'Kemakmuran Bersama Asia Timur Raya' yang diusung Jepang pada kenyataannya berarti...",
+        "pilihan": {"A": "Semua negara Asia berbagi kekayaan secara merata", "B": "Kemakmuran hanya untuk Jepang dengan mengeksploitasi negeri-negeri jajahannya", "C": "Asia menjadi blok ekonomi yang mengalahkan Eropa", "D": "Setiap negara Asia mendapatkan kedaulatan ekonomi penuh"},
+        "jawabanBenar": "B",
+        "pembahasan": "Doktrin 'Kemakmuran Bersama Asia Timur Raya' adalah kemasan propaganda untuk melegitimasi penjajahan dan eksploitasi ekonomi Jepang atas Asia."
+      }
+    ]
+  },
+  {
+    "id": "bab-14",
+    "materiId": 14,
+    "kategori": "Bab 14: Dampak Pendudukan Jepang terhadap Kehidupan Rakyat",
+    "tingkat": "Sulit",
+    "ikon": "🔴",
+    "warna": "#E53935",
+    "deskripsi": "Menganalisis dampak komprehensif pendudukan Jepang di bidang ekonomi, sosial, pendidikan, dan budaya.",
+    "soal": [
+      {
+        "id": "14-1",
+        "pertanyaan": "Dampak paling parah pendudukan Jepang terhadap kondisi sosial-ekonomi rakyat Indonesia adalah...",
+        "pilihan": {"A": "Modernisasi sistem transportasi", "B": "Kelaparan massal, kemiskinan ekstrem, dan penurunan drastis kualitas hidup", "C": "Meratanya pembangunan ke seluruh pelosok", "D": "Meningkatnya pendapatan petani"},
+        "jawabanBenar": "B",
+        "pembahasan": "Romusha, perampasan pangan, inflasi mata uang, dan krisis sandang-pangan mengakibatkan penderitaan rakyat yang luar biasa."
+      },
+      {
+        "id": "14-2",
+        "pertanyaan": "Krisis sandang pada masa Jepang mengakibatkan rakyat terpaksa menggunakan...",
+        "pilihan": {"A": "Pakaian sutra import dari Jepang", "B": "Serat karung goni, kulit kayu, dan bahan seadanya", "C": "Seragam militer Jepang bekas", "D": "Pakaian dari kain batik khas Belanda"},
+        "jawabanBenar": "B",
+        "pembahasan": "Krisis tekstil memaksa rakyat memakai serat karung goni, kulit kayu, dan bahan alternatif seadanya sebagai pakaian."
+      },
+      {
+        "id": "14-3",
+        "pertanyaan": "Dampak pendudukan Jepang terhadap sistem pendidikan Indonesia adalah...",
+        "pilihan": {"A": "Peningkatan kualitas pendidikan secara signifikan", "B": "Penurunan angka partisipasi sekolah namun bahasa Indonesia menjadi pengantar wajib", "C": "Pembukaan ribuan sekolah baru di seluruh Indonesia", "D": "Semua buku pelajaran Belanda tetap digunakan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Sekolah menurun jumlahnya namun bahasa Indonesia menggantikan Belanda sebagai bahasa pengantar, memperkuat identitas nasional."
+      },
+      {
+        "id": "14-4",
+        "pertanyaan": "Inflasi mata uang yang terjadi pada masa pendudukan Jepang disebabkan oleh...",
+        "pilihan": {"A": "Ekspor barang berlebihan", "B": "Jepang mencetak uang tanpa cadangan emas untuk membiayai perang", "C": "Investasi asing yang masuk besar-besaran", "D": "Kebijakan fiskal yang bijaksana dari pemerintah Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang mencetak uang besar-besaran tanpa cadangan nilai riil untuk membiayai kebutuhan perang, mengakibatkan hiperinflasi."
+      },
+      {
+        "id": "14-5",
+        "pertanyaan": "Dampak positif tidak langsung pendudukan Jepang dalam bidang militer bagi Indonesia adalah...",
+        "pilihan": {"A": "Indonesia mendapat senjata canggih gratis dari Jepang", "B": "Terbentuknya kader perwira militer Indonesia melalui PETA dan Giyugun", "C": "Jepang melatih angkatan laut Indonesia", "D": "Berdirinya akademi militer setara West Point"},
+        "jawabanBenar": "B",
+        "pembahasan": "PETA dan Giyugun melahirkan ribuan perwira militer lokal yang menjadi cikal bakal TNI setelah kemerdekaan."
+      },
+      {
+        "id": "14-6",
+        "pertanyaan": "Jumlah rakyat Indonesia yang menjadi romusha dan meninggal dalam kondisi tidak manusiawi diperkirakan mencapai...",
+        "pilihan": {"A": "Ribuan orang", "B": "Puluhan ribu orang", "C": "Ratusan ribu hingga jutaan orang", "D": "Hanya beberapa ratus orang"},
+        "jawabanBenar": "C",
+        "pembahasan": "Sejarawan memperkirakan ratusan ribu hingga jutaan orang tewas akibat sistem romusha yang diterapkan secara brutal di seluruh Indonesia."
+      },
+      {
+        "id": "14-7",
+        "pertanyaan": "Kondisi bahan pangan pokok seperti beras pada masa pendudukan Jepang...",
+        "pilihan": {"A": "Berlimpah karena produksi pertanian meningkat", "B": "Langka dan mahal karena dijarah untuk ransum militer Jepang", "C": "Tersedia cukup karena Jepang mengimpor beras dari Thailand", "D": "Tidak terpengaruh karena petani bebas menjual sendiri"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jepang memaksa penyerahan beras untuk ransum militer sehingga rakyat kekurangan bahan pangan pokok dan terpaksa makan bahan alternatif."
+      }
+    ]
+  },
+  {
+    "id": "bab-15",
+    "materiId": 15,
+    "kategori": "Bab 15: Dampak Positif yang Tidak Disengaja",
+    "tingkat": "Sulit",
+    "ikon": "🔴",
+    "warna": "#E53935",
+    "deskripsi": "Menganalisis dampak positif tak terduga pendudukan Jepang: nasionalisme, bahasa, dan kader militer.",
+    "soal": [
+      {
+        "id": "15-1",
+        "pertanyaan": "Kebijakan Jepang yang secara tidak langsung memperkuat persatuan bangsa Indonesia adalah...",
+        "pilihan": {"A": "Penerapan sistem Seikerei", "B": "Pelarangan bahasa Belanda dan promosi bahasa Indonesia", "C": "Kebijakan romusha di seluruh Jawa", "D": "Penerapan jam malam di kota-kota besar"},
+        "jawabanBenar": "B",
+        "pembahasan": "Pelarangan bahasa Belanda mendorong penggunaan bahasa Indonesia secara nasional sebagai bahasa pemersatu."
+      },
+      {
+        "id": "15-2",
+        "pertanyaan": "Pembentukan PETA secara tidak sengaja memberikan manfaat bagi Indonesia karena...",
+        "pilihan": {"A": "PETA mendapat senjata canggih dari Jepang", "B": "Menghasilkan ribuan perwira terlatih yang menjadi inti TNI", "C": "PETA memenangkan perang melawan Jepang", "D": "Anggota PETA mendapat gaji besar dari Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Ribuan alumni PETA termasuk Jenderal Sudirman dan AH Nasution menjadi tulang punggung Tentara Nasional Indonesia."
+      },
+      {
+        "id": "15-3",
+        "pertanyaan": "Penderitaan bersama akibat kekejaman Jepang berdampak positif pada nasionalisme Indonesia karena...",
+        "pilihan": {"A": "Membuat rakyat melupakan perbedaan suku dan agama", "B": "Menimbulkan rasa senasib sepenanggungan yang memperkuat persatuan melawan penjajah", "C": "Mendorong setiap daerah memisahkan diri dari Indonesia", "D": "Membuat rakyat pasrah menerima penjajahan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Penderitaan bersama menciptakan rasa senasib yang menyatukan berbagai suku dan golongan dalam semangat anti-penjajahan."
+      },
+      {
+        "id": "15-4",
+        "pertanyaan": "Organisasi Putera meskipun dibentuk Jepang, memberikan dampak positif bagi Indonesia karena...",
+        "pilihan": {"A": "Berhasil mengumpulkan romusha lebih efisien", "B": "Menjadi wadah legal bagi tokoh nasionalis menyebarkan semangat kemerdekaan", "C": "Menghasilkan keuntungan ekonomi bagi Indonesia", "D": "Melatih tentara untuk membantu Jepang berperang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Soekarno dan Hatta memanfaatkan Putera sebagai platform legal untuk menyebarkan semangat nasionalisme dan mempersiapkan kemerdekaan."
+      },
+      {
+        "id": "15-5",
+        "pertanyaan": "Pengalaman berorganisasi dalam lembaga-lembaga bentukan Jepang membekali tokoh Indonesia dengan...",
+        "pilihan": {"A": "Kesetiaan mutlak kepada Jepang", "B": "Keterampilan administrasi, kepemimpinan, dan pengalaman mengelola organisasi massa", "C": "Kemampuan berbahasa Jepang yang fasih", "D": "Pengetahuan teknologi persenjataan modern"},
+        "jawabanBenar": "B",
+        "pembahasan": "Pengalaman mengorganisir Putera, Jawa Hokokai, dll membekali tokoh Indonesia dengan skill kepemimpinan yang berharga untuk masa kemerdekaan."
+      },
+      {
+        "id": "15-6",
+        "pertanyaan": "BPUPK (Dokuritsu Junbi Cosakai) yang dibentuk Jepang pada 1 Maret 1945 memberikan dampak historis terpenting berupa...",
+        "pilihan": {"A": "Memperpanjang masa pendudukan Jepang", "B": "Menjadi forum perumusan Pancasila dan dasar negara Indonesia merdeka", "C": "Memberikan kemerdekaan kepada Indonesia atas nama Jepang", "D": "Membentuk angkatan bersenjata Indonesia pertama"},
+        "jawabanBenar": "B",
+        "pembahasan": "BPUPK menjadi wadah di mana Soekarno, Hatta, dan tokoh lainnya merumuskan Pancasila, UUD, dan konsep dasar negara Indonesia."
+      },
+      {
+        "id": "15-7",
+        "pertanyaan": "Dari berbagai dampak positif tidak disengaja Jepang, mana yang paling fundamental bagi kemerdekaan Indonesia?",
+        "pilihan": {"A": "Pembangunan infrastruktur jalan dan rel kereta api", "B": "Terbentuknya kader militer PETA dan menguatnya persatuan nasional sebagai fondasi perjuangan", "C": "Pengembangan sistem pertanian modern", "D": "Peningkatan melek huruf di kalangan rakyat"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kader militer PETA dan persatuan nasional yang menguat menjadi dua pilar terpenting yang memungkinkan Indonesia mempertahankan kemerdekaan 1945."
+      }
+    ]
+  },
+  {
+    "id": "bab-16",
+    "materiId": 16,
+    "kategori": "Bab 16: Tabel Komprehensif Perlawanan terhadap Jepang",
+    "tingkat": "Extra Sulit",
+    "ikon": "🟣",
+    "warna": "#9C27B0",
+    "deskripsi": "Menguji kemampuan analisis komparatif tokoh, lokasi, tahun, dan metode seluruh perlawanan utama.",
+    "soal": [
+      {
+        "id": "16-1",
+        "pertanyaan": "Berdasarkan kronologi, urutan perlawanan bersenjata yang benar dari paling awal adalah...",
+        "pilihan": {"A": "Indramayu → Sukamanah → Cot Plieng → PETA Blitar", "B": "Cot Plieng (1942) → Meureu (1944) → Indramayu (1944) → Sukamanah (1944/45) → PETA Blitar (1945)", "C": "PETA Blitar → Sukamanah → Cot Plieng → Indramayu", "D": "Meureu → PETA Blitar → Cot Plieng → Indramayu"},
+        "jawabanBenar": "B",
+        "pembahasan": "Urutan kronologis: Cot Plieng Nov 1942 → Meureu Nov 1944 → Indramayu Apr 1944 → Sukamanah Feb 1945 → PETA Blitar 14 Feb 1945."
+      },
+      {
+        "id": "16-2",
+        "pertanyaan": "Pasangkan perlawanan dengan pemimpinnya yang benar: Mandor-Kalimantan Barat dipimpin oleh...",
+        "pilihan": {"A": "Shodancho Supriyadi", "B": "Pang Suma dan laskar Dayak", "C": "K.H. Zainal Mustafa", "D": "Tengku Abdul Jalil"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan di Meliau-Tayan Kalimantan Barat dipimpin Pang Suma bersama laskar pejuang Dayak menggunakan senjata tradisional."
+      },
+      {
+        "id": "16-3",
+        "pertanyaan": "Dari seluruh perlawanan terhadap Jepang, mana yang melibatkan perwira militer terlatih (bukan rakyat sipil)?",
+        "pilihan": {"A": "Cot Plieng dan Sukamanah", "B": "PETA Blitar dan PETA Gumilir", "C": "Indramayu dan Kalimantan Barat", "D": "Menteng 31 dan Gerindo"},
+        "jawabanBenar": "B",
+        "pembahasan": "PETA Blitar dan PETA Gumilir adalah perlawanan yang dilakukan oleh perwira militer terlatih yang pernah mendapat pendidikan dari Jepang sendiri."
+      },
+      {
+        "id": "16-4",
+        "pertanyaan": "Perlawanan manakah yang menjadi satu-satunya contoh perlawanan gerakan bawah tanah berbasis intelijen dan penyadapan?",
+        "pilihan": {"A": "Perlawanan Sukamanah", "B": "Gerakan Klandestin Sjahrir dan Menteng 31", "C": "Perlawanan Pang Suma", "D": "Perlawanan Cot Plieng"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kelompok Sjahrir dan Menteng 31 adalah satu-satunya yang menggunakan metode intelijen/penyadapan radio — bukan perlawanan fisik bersenjata."
+      },
+      {
+        "id": "16-5",
+        "pertanyaan": "Dari tabel perlawanan, wilayah mana yang mengalami tragedi pembantaian massal (bukan perlawanan aktif)?",
+        "pilihan": {"A": "Tasikmalaya, Jawa Barat", "B": "Kalimantan Barat (Tragedi Mandor)", "C": "Blitar, Jawa Timur", "D": "Aceh, Sumatra"},
+        "jawabanBenar": "B",
+        "pembahasan": "Tragedi Mandor di Kalimantan Barat adalah pembantaian sepihak oleh Kaigun Jepang — berbeda dari perlawanan aktif yang dilakukan rakyat."
+      },
+      {
+        "id": "16-6",
+        "pertanyaan": "Kesamaan yang dimiliki oleh semua perlawanan bersenjata lokal terhadap Jepang adalah...",
+        "pilihan": {"A": "Semuanya mendapat dukungan senjata dari Sekutu", "B": "Semuanya berhasil membebaskan daerahnya dari pendudukan Jepang", "C": "Semuanya berakhir dengan kekalahan militer namun menjadi inspirasi perlawanan berikutnya", "D": "Semuanya dipimpin oleh perwira militer profesional"},
+        "jawabanBenar": "C",
+        "pembahasan": "Meskipun semua gagal secara militer, setiap perlawanan menyulut semangat perjuangan dan menjadi warisan moral bagi generasi pejuang berikutnya."
+      },
+      {
+        "id": "16-7",
+        "pertanyaan": "Perlawanan yang terjadi paling dekat secara waktu dengan Proklamasi Kemerdekaan 17 Agustus 1945 adalah...",
+        "pilihan": {"A": "PETA Blitar (14 Februari 1945) dan PETA Gumilir (April 1945)", "B": "Perlawanan Cot Plieng (November 1942)", "C": "Perlawanan Indramayu (April 1944)", "D": "Tragedi Mandor (1943-1944)"},
+        "jawabanBenar": "A",
+        "pembahasan": "Pemberontakan PETA Blitar (Februari 1945) dan Gumilir (April 1945) adalah perlawanan yang paling dekat dengan Proklamasi 17 Agustus 1945."
+      },
+      {
+        "id": "16-8",
+        "pertanyaan": "Faktor ekonomi (romusha dan perampasan pangan) menjadi pemicu utama pada perlawanan di...",
+        "pilihan": {"A": "Cot Plieng dan Meureu", "B": "Indramayu, dan juga turut mendorong PETA Blitar", "C": "Hanya gerakan bawah tanah Sjahrir", "D": "Hanya Tragedi Mandor"},
+        "jawabanBenar": "B",
+        "pembahasan": "Faktor ekonomi — perampasan padi — menjadi pemicu utama perlawanan Indramayu, dan penderitaan romusha juga mendorong pemberontakan PETA Blitar."
+      }
+    ]
+  },
+  {
+    "id": "bab-17",
+    "materiId": 17,
+    "kategori": "Bab 17: Perbandingan Karakteristik Beberapa Perlawanan",
+    "tingkat": "Extra Sulit",
+    "ikon": "🟣",
+    "warna": "#9C27B0",
+    "deskripsi": "Menganalisis perbedaan dan persamaan mendalam antara berbagai perlawanan dari sisi motivasi, metode, dan hasil.",
+    "soal": [
+      {
+        "id": "17-1",
+        "pertanyaan": "Perbedaan mendasar antara perlawanan Cot Plieng (Aceh) dan perlawanan PETA Blitar adalah...",
+        "pilihan": {"A": "Cot Plieng dipimpin ulama rakyat, PETA Blitar dipimpin perwira militer terlatih", "B": "Cot Plieng berhasil menang, PETA Blitar gagal total", "C": "Cot Plieng menggunakan senjata modern, PETA Blitar menggunakan bambu runcing", "D": "Tidak ada perbedaan, keduanya identik"},
+        "jawabanBenar": "A",
+        "pembahasan": "Cot Plieng adalah perlawanan rakyat dipimpin ulama Tengku Abdul Jalil, sementara PETA Blitar adalah pemberontakan militer terorganisir perwira PETA."
+      },
+      {
+        "id": "17-2",
+        "pertanyaan": "Persamaan antara perlawanan Sukamanah dan Cot Plieng adalah...",
+        "pilihan": {"A": "Keduanya dipimpin perwira PETA", "B": "Keduanya dimotivasi faktor keagamaan dan dipimpin ulama/pemimpin religius", "C": "Keduanya berhasil mengusir Jepang dari daerahnya", "D": "Keduanya mendapat bantuan dari gerakan bawah tanah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Baik Sukamanah (K.H. Zainal Mustafa) maupun Cot Plieng (Tengku Abdul Jalil) dimotivasi faktor keagamaan dan dipimpin tokoh agama Islam."
+      },
+      {
+        "id": "17-3",
+        "pertanyaan": "Karakteristik unik perlawanan Pang Suma di Kalimantan yang membedakannya dari perlawanan lain adalah...",
+        "pilihan": {"A": "Merupakan perlawanan berbasis suku dengan menggunakan kearifan lokal dan senjata adat", "B": "Mendapat dukungan penuh dari pemerintah Belanda", "C": "Berhasil mendirikan negara merdeka sementara di pedalaman", "D": "Menggunakan strategi perang modern"},
+        "jawabanBenar": "A",
+        "pembahasan": "Perlawanan Pang Suma unik karena berbasis pada identitas suku Dayak, memanfaatkan kearifan lokal gerilya hutan dan senjata adat Mandau."
+      },
+      {
+        "id": "17-4",
+        "pertanyaan": "Dibandingkan perlawanan bersenjata, strategi gerakan bawah tanah Sjahrir lebih efektif karena...",
+        "pilihan": {"A": "Mampu membunuh lebih banyak tentara Jepang", "B": "Dapat berlangsung lebih lama dan mempersiapkan kemerdekaan tanpa dihancurkan Kenpeitai", "C": "Mendapat dukungan dari semua lapisan rakyat", "D": "Lebih mudah dilaksanakan dan tidak memerlukan keberanian"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kerahasiaan gerakan bawah tanah memungkinkan operasi jangka panjang yang akhirnya berhasil mempersiapkan momentum Proklamasi 1945."
+      },
+      {
+        "id": "17-5",
+        "pertanyaan": "Dari sisi hasil akhir jangka panjang, perlawanan manakah yang memberikan dampak paling besar bagi kemerdekaan Indonesia?",
+        "pilihan": {"A": "Perlawanan Cot Plieng karena paling heroik", "B": "Kombinasi gerakan bawah tanah Sjahrir, Menteng 31, dan kesiapan mantan perwira PETA", "C": "Perlawanan Sukamanah karena melibatkan ulama terkemuka", "D": "Tragedi Mandor karena mempermalukan Jepang di mata dunia"},
+        "jawabanBenar": "B",
+        "pembahasan": "Gerakan bawah tanah mempersiapkan momentum proklamasi, dan mantan perwira PETA menyediakan kader militer untuk mempertahankan kemerdekaan."
+      },
+      {
+        "id": "17-6",
+        "pertanyaan": "Mengapa perlawanan petani Indramayu berbeda secara sosial dari perlawanan Sukamanah dan Cot Plieng?",
+        "pilihan": {"A": "Indramayu dipimpin kaum bangsawan, bukan rakyat biasa", "B": "Indramayu murni didorong faktor ekonomi, sementara Sukamanah dan Cot Plieng juga didorong faktor keagamaan", "C": "Indramayu menggunakan senjata api, berbeda dari dua lainnya", "D": "Indramayu mendapat dukungan dari Soekarno secara langsung"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan Indramayu murni dipicu faktor ekonomi (perampasan padi), sementara Sukamanah dan Cot Plieng juga kuat faktor keagamaan."
+      },
+      {
+        "id": "17-7",
+        "pertanyaan": "Jika dibandingkan secara metodologis, perlawanan PETA Blitar dan perlawanan Giyugun Meureu memiliki kesamaan dalam hal...",
+        "pilihan": {"A": "Keduanya dipimpin oleh perwira militer lokal yang terlatih oleh Jepang sendiri", "B": "Keduanya menggunakan bambu runcing sebagai senjata utama", "C": "Keduanya mendapat dukungan dari Sultan setempat", "D": "Keduanya berhasil menguasai kota besar"},
+        "jawabanBenar": "A",
+        "pembahasan": "PETA (di Jawa) dan Giyugun (di Sumatra/Aceh) adalah satuan yang dilatih Jepang, namun perwiranya berbalik melawan — ironi sejarah yang serupa."
+      },
+      {
+        "id": "17-8",
+        "pertanyaan": "Aspek yang membuat semua perlawanan terhadap Jepang — meski gagal secara militer — tetap bermakna penting bagi sejarah adalah...",
+        "pilihan": {"A": "Semuanya tercatat dalam buku sejarah dunia internasional", "B": "Semuanya membuktikan bahwa rakyat Indonesia tidak pernah menerima penjajahan dan terus berjuang", "C": "Semuanya berhasil melemahkan ekonomi Jepang secara signifikan", "D": "Semuanya mendapat pengakuan dari PBB setelah 1945"},
+        "jawabanBenar": "B",
+        "pembahasan": "Terlepas dari hasil militer, semua perlawanan ini membuktikan bahwa bangsa Indonesia tidak pernah menerima penjajahan dan selalu berupaya meraih kemerdekaan."
+      }
+    ]
+  },
+  {
+    "id": "bab-18",
+    "materiId": 18,
+    "kategori": "Bab 18: Mengapa Banyak Perlawanan Berakhir dengan Kekalahan Militer?",
+    "tingkat": "Extra Sulit",
+    "ikon": "🟣",
+    "warna": "#9C27B0",
+    "deskripsi": "Menganalisis faktor-faktor struktural, strategis, dan kontekstual yang menyebabkan kekalahan perlawanan lokal.",
+    "soal": [
+      {
+        "id": "18-1",
+        "pertanyaan": "Faktor paling mendasar yang menyebabkan perlawanan bersenjata lokal dikalahkan Jepang adalah...",
+        "pilihan": {"A": "Kurangnya semangat juang rakyat Indonesia", "B": "Ketimpangan persenjataan antara senjata tradisional/seadanya vs. mesin perang modern Jepang", "C": "Pengkhianatan oleh tokoh-tokoh nasionalis", "D": "Tidak adanya dukungan dari rakyat setempat"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan dengan bambu runcing, Mandau, dan senjata tajam tidak dapat menandingi senapan, artileri, dan superioritas militer Jepang."
+      },
+      {
+        "id": "18-2",
+        "pertanyaan": "Kelemahan struktural utama perlawanan-perlawanan lokal terhadap Jepang adalah...",
+        "pilihan": {"A": "Tidak adanya tokoh pemimpin yang berwibawa", "B": "Bersifat terisolasi, tidak terkordinasi satu sama lain, dan kurang persatuan lintas daerah", "C": "Terlalu mengandalkan bantuan luar negeri", "D": "Tidak mendapat dukungan pemuda sama sekali"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan sporadis dan terisolasi per-daerah tanpa komando terpadu membuat Jepang dapat memadamkannya satu per satu dengan mudah."
+      },
+      {
+        "id": "18-3",
+        "pertanyaan": "Mengapa taktik tipu muslihat Kolonel Katagiri berhasil melucuti sebagian pemberontak PETA Blitar?",
+        "pilihan": {"A": "Para perwira PETA takut dengan ancaman bom Jepang", "B": "Katagiri menawarkan pengampunan palsu dan pedang kehormatan yang menipu para perwira yang masih menghormati kode Bushido", "C": "Para perwira PETA sudah kehabisan amunisi", "D": "Rakyat Blitar mendesak para perwira untuk menyerah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Katagiri memanfaatkan penghormatan perwira PETA terhadap prosedur militer dan menawarkan pengampunan yang terbukti palsu setelah mereka menyerah."
+      },
+      {
+        "id": "18-4",
+        "pertanyaan": "Superioritas intelijen Jepang melalui Kenpeitai mempengaruhi kegagalan perlawanan karena...",
+        "pilihan": {"A": "Kenpeitai membantu perlawanan rakyat secara diam-diam", "B": "Kenpeitai mampu mendeteksi dan menumpas rencana perlawanan sebelum berkembang menjadi ancaman besar", "C": "Kenpeitai terlalu sibuk menangani masalah internal Jepang", "D": "Kenpeitai tidak efektif dan sering kalah melawan pejuang lokal"},
+        "jawabanBenar": "B",
+        "pembahasan": "Jaringan intelijen dan mata-mata Kenpeitai yang luas mampu mendeteksi rencana perlawanan dan memadamkannya sebelum menjadi gerakan besar."
+      },
+      {
+        "id": "18-5",
+        "pertanyaan": "Pelajaran strategis apa yang dipetik tokoh-tokoh kemerdekaan dari kegagalan perlawanan bersenjata lokal?",
+        "pilihan": {"A": "Kemerdekaan hanya bisa dicapai dengan terus berperang sampai menang", "B": "Diperlukan strategi kombinasi: persatuan nasional, diplomasi, dan kesiapan militer terpadu", "C": "Lebih baik menerima penjajahan daripada berjuang sia-sia", "D": "Indonesia harus menunggu bantuan Sekutu untuk merdeka"},
+        "jawabanBenar": "B",
+        "pembahasan": "Dari kegagalan perlawanan lokal, para pemimpin memahami bahwa kemerdekaan memerlukan persatuan nasional, strategi diplomatik, dan kesiapan militer yang koordinatif."
+      },
+      {
+        "id": "18-6",
+        "pertanyaan": "Faktor geografis yang menyulitkan koordinasi perlawanan antar-daerah di Indonesia adalah...",
+        "pilihan": {"A": "Semua daerah terlalu berdekatan sehingga mudah diamati Jepang", "B": "Kepulauan yang tersebar luas, kondisi komunikasi primitif, dan kontrol Jepang atas jalur transportasi", "C": "Cuaca yang tidak mendukung operasi militer", "D": "Tidak adanya bahasa pengantar yang dipahami semua suku"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kepulauan Indonesia yang luas, infrastruktur komunikasi yang terbatas, dan kontrol Jepang atas jalur transportasi membuat koordinasi perlawanan antar-daerah sangat sulit."
+      },
+      {
+        "id": "18-7",
+        "pertanyaan": "Dimensi psikologis yang dieksploitasi Jepang untuk memecah belah perlawanan adalah...",
+        "pilihan": {"A": "Menawarkan kemerdekaan palsu dan jabatan kepada tokoh-tokoh yang mau kooperatif", "B": "Menyuap seluruh pemimpin perlawanan", "C": "Mengancam keluarga para pejuang di depan umum", "D": "Menyebarkan informasi bahwa Sekutu tidak akan membantu Indonesia"},
+        "jawabanBenar": "A",
+        "pembahasan": "Jepang pandai menawarkan iming-iming kemerdekaan, jabatan dalam pemerintahan boneka, dan penghargaan palsu untuk memecah konsolidasi perlawanan."
+      },
+      {
+        "id": "18-8",
+        "pertanyaan": "Meskipun gagal secara militer, perlawanan-perlawanan lokal berkontribusi pada kemerdekaan Indonesia dengan cara...",
+        "pilihan": {"A": "Berhasil mengusir Jepang dari beberapa wilayah", "B": "Menguras sumber daya Jepang secara signifikan", "C": "Membuktikan resistensi bangsa dan membangun tradisi perlawanan yang menginspirasi perjuangan kemerdekaan 1945", "D": "Menarik perhatian dan bantuan militer Sekutu"},
+        "jawabanBenar": "C",
+        "pembahasan": "Perlawanan lokal membangun tradisi dan semangat resistensi nasional yang menjadi bahan bakar moral perjuangan kemerdekaan Agustus 1945."
+      }
+    ]
+  },
+  {
+    "id": "bab-19",
+    "materiId": 19,
+    "kategori": "Bab 19: Nilai-Nilai Perjuangan yang Dapat Diteladani",
+    "tingkat": "Extra Sulit",
+    "ikon": "🟣",
+    "warna": "#9C27B0",
+    "deskripsi": "Mengevaluasi dan menginternalisasi nilai-nilai luhur perjuangan para pahlawan untuk kehidupan berbangsa masa kini.",
+    "soal": [
+      {
+        "id": "19-1",
+        "pertanyaan": "Nilai 'rela berkorban' yang ditunjukkan Tengku Abdul Jalil, K.H. Zainal Mustafa, dan Supriyadi bermakna bagi generasi muda karena...",
+        "pilihan": {"A": "Mengajarkan pentingnya kekerasan dalam menyelesaikan masalah", "B": "Menunjukkan bahwa kepentingan bangsa dan kebenaran layak dibela meskipun harus mengorbankan nyawa", "C": "Membuktikan bahwa pejuang tidak takut mati apapun alasannya", "D": "Hanya relevan untuk zaman perang, tidak berlaku di masa damai"},
+        "jawabanBenar": "B",
+        "pembahasan": "Pengorbanan para pahlawan mengajarkan bahwa nilai-nilai mulia seperti kebenaran, keadilan, dan kemerdekaan layak dibela dengan segenap jiwa raga."
+      },
+      {
+        "id": "19-2",
+        "pertanyaan": "Nilai 'cinta tanah air' yang ditunjukkan seluruh pejuang dapat diimplementasikan oleh pelajar masa kini melalui...",
+        "pilihan": {"A": "Hanya mengikuti upacara bendera tanpa memahami maknanya", "B": "Berprestasi di bidang akademik, menjaga persatuan, dan berkontribusi aktif pada kemajuan bangsa", "C": "Menolak semua produk dan budaya asing", "D": "Mengangkat senjata tanpa alasan yang jelas"},
+        "jawabanBenar": "B",
+        "pembahasan": "Cinta tanah air masa kini diwujudkan melalui prestasi, menjaga persatuan NKRI, dan berkontribusi positif dalam berbagai bidang kehidupan."
+      },
+      {
+        "id": "19-3",
+        "pertanyaan": "Nilai 'persatuan dan gotong royong' yang tercermin dalam perlawanan terhadap Jepang mengajarkan bahwa...",
+        "pilihan": {"A": "Setiap suku harus berjuang sendiri-sendiri", "B": "Kekuatan terbesar bangsa terletak pada kesatuan tekad dan kerja sama lintas suku, agama, dan golongan", "C": "Hanya kaum terpelajar yang berhak memimpin perjuangan", "D": "Perbedaan suku dan agama selalu menjadi penghalang persatuan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Perlawanan dari Aceh, Jawa, Kalimantan membuktikan bahwa kekuatan sesungguhnya bangsa adalah kesatuan tekad meski berbeda suku dan agama."
+      },
+      {
+        "id": "19-4",
+        "pertanyaan": "Nilai 'pantang menyerah' yang diwarisi dari para pejuang relevan menghadapi tantangan modern karena...",
+        "pilihan": {"A": "Mendorong tindakan sembrono tanpa memperhitungkan risiko", "B": "Menumbuhkan ketangguhan, kreativitas, dan kegigihan dalam menghadapi setiap rintangan hidup", "C": "Membenarkan sikap keras kepala tanpa mau berkompromi", "D": "Hanya berlaku dalam konteks perang fisik"},
+        "jawabanBenar": "B",
+        "pembahasan": "Semangat pantang menyerah para pejuang relevan sebagai teladan ketangguhan menghadapi tantangan akademis, karir, dan sosial di era modern."
+      },
+      {
+        "id": "19-5",
+        "pertanyaan": "Nilai 'keberanian menegakkan kebenaran' yang ditunjukkan K.H. Zainal Mustafa paling tepat diimplementasikan pelajar dengan cara...",
+        "pilihan": {"A": "Selalu melawan otoritas apapun alasannya", "B": "Berani menolak ajakan perilaku negatif (korupsi, kekerasan, hoaks) meskipun mendapat tekanan", "C": "Hanya berani jika ada tokoh agama yang mendukung", "D": "Diam saja karena takut mendapat masalah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Keberanian K.H. Zainal Mustafa menolak Seikerei meski menghadapi risiko kematian mengajarkan keberanian moral melawan hal yang salah dengan penuh tanggung jawab."
+      },
+      {
+        "id": "19-6",
+        "pertanyaan": "Pelajaran terpenting dari kisah Sutan Sjahrir dan gerakan bawah tanah yang relevan di era digital adalah...",
+        "pilihan": {"A": "Informasi rahasia harus selalu disembunyikan dari publik", "B": "Kecerdasan memanfaatkan informasi dan teknologi (saat itu radio) untuk tujuan kebaikan bangsa", "C": "Media asing harus selalu diboikot", "D": "Teknologi komunikasi tidak bermanfaat bagi perjuangan"},
+        "jawabanBenar": "B",
+        "pembahasan": "Sjahrir menggunakan radio sebagai senjata informasi — relevan di era digital: memanfaatkan teknologi secara cerdas dan bertanggung jawab demi kebaikan bangsa."
+      },
+      {
+        "id": "19-7",
+        "pertanyaan": "Dari semua nilai perjuangan yang ada, mengapa 'persatuan' dianggap sebagai nilai yang paling fundamental?",
+        "pilihan": {"A": "Karena persatuan membuat semua orang berpikir sama", "B": "Karena tanpa persatuan, semua kekuatan individual tidak berarti dan mudah dikalahkan penjajah", "C": "Karena persatuan berarti semua orang harus setuju dengan pemimpin", "D": "Karena persatuan hanya penting saat masa perang saja"},
+        "jawabanBenar": "B",
+        "pembahasan": "Terbukti dari sejarah: perlawanan lokal yang terisolasi mudah dipatahkan. Hanya dengan persatuan nasional Indonesia bisa merdeka dan mempertahankan kedaulatannya."
+      },
+      {
+        "id": "19-8",
+        "pertanyaan": "Bagaimana nilai-nilai perjuangan para pahlawan melawan Jepang seharusnya diimplementasikan dalam kehidupan berbangsa masa kini secara menyeluruh?",
+        "pilihan": {"A": "Cukup diperingati setiap tahun pada hari nasional saja", "B": "Dijadikan landasan karakter dalam kehidupan sehari-hari: jujur, berani, bersatu, dan berprestasi untuk bangsa", "C": "Hanya perlu dipelajari dalam pelajaran sejarah di sekolah", "D": "Diterapkan hanya jika negara dalam kondisi bahaya perang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Nilai-nilai perjuangan harus menjadi karakter hidup sehari-hari: kejujuran, keberanian moral, persatuan, dan semangat berprestasi demi kemajuan Indonesia."
+      }
+    ]
+  },
+  {
+    "id": "bab-20",
+    "materiId": 20,
+    "kategori": "Bab 20: Rangkuman & Kesimpulan Akhir",
+    "tingkat": "Extra Sulit",
+    "ikon": "🟣",
+    "warna": "#9C27B0",
+    "deskripsi": "Evaluasi komprehensif seluruh materi — menguji sintesis, analisis kritis, dan pemahaman holistik tentang Perlawanan terhadap Pendudukan Jepang.",
+    "soal": [
+      {
+        "id": "20-1",
+        "pertanyaan": "Pernyataan yang paling tepat menggambarkan hubungan antara pendudukan Jepang dan Proklamasi Kemerdekaan Indonesia adalah...",
+        "pilihan": {"A": "Jepang sengaja mempersiapkan Indonesia untuk merdeka", "B": "Meski tidak disengaja, pendudukan Jepang menciptakan kondisi dan kader yang memungkinkan proklamasi kemerdekaan terjadi", "C": "Kemerdekaan Indonesia adalah hadiah langsung dari Jepang", "D": "Proklamasi terjadi tanpa kaitan apapun dengan pendudukan Jepang"},
+        "jawabanBenar": "B",
+        "pembahasan": "Secara tidak disengaja, Jepang menciptakan kader militer (PETA), memperkuat nasionalisme, dan melemahkan diri sendiri — kondisi yang dimanfaatkan Indonesia untuk merdeka."
+      },
+      {
+        "id": "20-2",
+        "pertanyaan": "Sintesis terbaik tentang mengapa perlawanan lokal gagal secara militer namun berhasil secara nasional adalah...",
+        "pilihan": {"A": "Kegagalan militer membuktikan bahwa Indonesia tidak siap merdeka", "B": "Setiap perlawanan membangun lapisan semangat dan kader yang secara kumulatif mencapai kemerdekaan 1945", "C": "Perlawanan lokal tidak memiliki dampak apapun terhadap kemerdekaan", "D": "Keberhasilan nasional hanya karena bom atom di Hiroshima-Nagasaki"},
+        "jawabanBenar": "B",
+        "pembahasan": "Setiap perlawanan — meski gagal militer — membangun lapisan kesadaran, inspirasi, dan kader yang secara akumulatif melahirkan kemerdekaan Indonesia."
+      },
+      {
+        "id": "20-3",
+        "pertanyaan": "Dari seluruh materi bab 1-20, kesimpulan tentang karakter bangsa Indonesia yang paling fundamental adalah...",
+        "pilihan": {"A": "Bangsa Indonesia cenderung pasif dan menerima penjajahan", "B": "Bangsa Indonesia terbukti memiliki semangat perlawanan yang tidak pernah padam meski menghadapi kekuatan superior", "C": "Bangsa Indonesia hanya bisa berjuang jika dipimpin tokoh agama", "D": "Bangsa Indonesia mudah dipecah belah oleh penjajah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Dari Aceh hingga Kalimantan, dari ulama hingga perwira PETA, sejarah membuktikan semangat perlawanan tidak pernah padam dalam jiwa bangsa Indonesia."
+      },
+      {
+        "id": "20-4",
+        "pertanyaan": "Kombinasi faktor mana yang paling tepat menjelaskan mengapa Indonesia akhirnya berhasil meraih kemerdekaan pada 17 Agustus 1945?",
+        "pilihan": {"A": "Hanya karena kekalahan Jepang oleh bom atom Sekutu", "B": "Interaksi kompleks: kekalahan Jepang di Pasifik + momentum yang disiapkan gerakan bawah tanah + kesiapan kader PETA + persatuan nasional", "C": "Hanya karena jasa Soekarno dan Hatta semata", "D": "Karena Jepang secara sukarela memberikan kemerdekaan kepada Indonesia"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kemerdekaan adalah hasil interaksi kompleks: kekalahan Jepang, momentum yang disiapkan gerakan bawah tanah, kader PETA, dan persatuan nasional yang matang."
+      },
+      {
+        "id": "20-5",
+        "pertanyaan": "Mengapa studi tentang perlawanan terhadap Jepang tetap relevan dan penting untuk generasi Indonesia masa kini?",
+        "pilihan": {"A": "Hanya untuk memenuhi kurikulum mata pelajaran sejarah", "B": "Untuk memahami akar sejarah karakter bangsa dan mengambil nilai-nilai yang relevan menghadapi tantangan masa kini", "C": "Untuk menimbulkan rasa kebencian terhadap Jepang", "D": "Karena sejarah selalu akan terulang persis sama"},
+        "jawabanBenar": "B",
+        "pembahasan": "Memahami perlawanan terhadap Jepang memberi kita akar sejarah karakter bangsa dan nilai-nilai yang relevan untuk menghadapi tantangan kekinian."
+      },
+      {
+        "id": "20-6",
+        "pertanyaan": "Peran BPUPK yang dibentuk Jepang pada 1 Maret 1945 dalam konteks kemerdekaan Indonesia adalah...",
+        "pilihan": {"A": "Sebagai badan yang merencanakan serangan balik terhadap Jepang", "B": "Menjadi forum resmi perumusan Pancasila dan dasar-dasar konstitusi negara Indonesia merdeka", "C": "Sebagai badan yang mengelola penyerahan Jepang kepada Sekutu", "D": "Mengkoordinasikan distribusi senjata kepada pejuang kemerdekaan"},
+        "jawabanBenar": "B",
+        "pembahasan": "BPUPK (Dokuritsu Junbi Cosakai) menjadi forum bersejarah di mana Pancasila dan konsep dasar negara dirumuskan oleh para tokoh bangsa."
+      },
+      {
+        "id": "20-7",
+        "pertanyaan": "Evaluasi kritis terhadap pernyataan: 'Jepang adalah satu-satunya penyebab kemerdekaan Indonesia' adalah...",
+        "pilihan": {"A": "Pernyataan itu sepenuhnya benar karena tanpa Jepang Indonesia tidak merdeka", "B": "Pernyataan itu keliru — kemerdekaan adalah hasil perjuangan panjang rakyat Indonesia sendiri, meski Jepang menciptakan konteks yang memungkinkan", "C": "Pernyataan itu benar karena Jepang menyerah kepada Sekutu", "D": "Pernyataan itu tidak relevan untuk dikaji"},
+        "jawabanBenar": "B",
+        "pembahasan": "Kemerdekaan Indonesia adalah buah perjuangan panjang rakyat Indonesia sendiri. Jepang hanya menciptakan konteks tertentu, bukan penyebab tunggalnya."
+      },
+      {
+        "id": "20-8",
+        "pertanyaan": "Warisan terpenting dari keseluruhan perjuangan melawan pendudukan Jepang bagi Indonesia masa depan adalah...",
+        "pilihan": {"A": "Rasa dendam terhadap Jepang yang harus dijaga", "B": "Pemahaman bahwa kemerdekaan harus dipertahankan dan diisi dengan prestasi nyata oleh setiap generasi", "C": "Kebanggaan bahwa Indonesia pernah dijajah Jepang", "D": "Keyakinan bahwa perang adalah satu-satunya cara menyelesaikan masalah"},
+        "jawabanBenar": "B",
+        "pembahasan": "Warisan terbesar perjuangan ini: kesadaran bahwa kemerdekaan yang diperjuangkan dengan darah harus dijaga dan diisi dengan kontribusi nyata oleh setiap generasi penerus."
+      }
+    ]
+  }
+]
