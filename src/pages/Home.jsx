@@ -84,7 +84,7 @@ export default function Home() {
   const [registeredUsersCount, setRegisteredUsersCount] = useState(0);
 
   useEffect(() => {
-    fetch('/data/timeline.json')
+    fetch(`${import.meta.env.BASE_URL}data/timeline.json`)
       .then(res => res.json())
       .then(data => setTimelineItems(data.slice(0, 8)))
       .catch(() => {});

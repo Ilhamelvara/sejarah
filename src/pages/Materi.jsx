@@ -56,7 +56,7 @@ export default function Materi() {
 
   // Fetch data
   useEffect(() => {
-    fetch('/data/materi.json')
+    fetch(`${import.meta.env.BASE_URL}data/materi.json`)
       .then(res => res.json())
       .then(d => {
         setData(d);
@@ -64,7 +64,7 @@ export default function Materi() {
       })
       .catch(err => console.error(err));
 
-    fetch('/data/timeline.json')
+    fetch(`${import.meta.env.BASE_URL}data/timeline.json`)
       .then(res => res.json())
       .then(t => setTimelineData(t.sort((a, b) => a.tahunSort - b.tahunSort)))
       .catch(err => console.error(err));

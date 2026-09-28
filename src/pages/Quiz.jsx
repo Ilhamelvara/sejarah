@@ -95,7 +95,7 @@ export default function Quiz() {
   const [difficultyFilter, setDifficultyFilter] = useState('Semua');
 
   useEffect(() => {
-    fetch('/data/quiz.json')
+    fetch(`${import.meta.env.BASE_URL}data/quiz.json`)
       .then(res => res.json())
       .then(data => setCategoriesData(data))
       .catch(() => {});

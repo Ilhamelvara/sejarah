@@ -412,7 +412,7 @@ export default function Museum() {
   const controlsRef = useRef();
 
   useEffect(() => {
-    fetch('/data/museum.json')
+    fetch(`${import.meta.env.BASE_URL}data/museum.json`)
       .then(res => res.json())
       .then(d => setArtifacts(d))
       .catch(() => {});
